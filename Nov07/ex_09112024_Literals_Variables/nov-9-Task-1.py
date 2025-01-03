@@ -1,7 +1,7 @@
 # task1 : take 2 numbers as user input and perform basic mathematical calculations
 # task 2: take 2 user-input and print quotient and reminder
-a = int(input("enter number 1"))
-b = int(input("enter number 2"))
+a = float(input("enter number 1"))
+b = float(input("enter number 2"))
 sum = a + b
 sub = a - b
 mul = a * b
